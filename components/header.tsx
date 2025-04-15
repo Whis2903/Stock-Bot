@@ -14,7 +14,7 @@ import { Session } from '@/lib/types'
 async function UserOrLogin() {
   return (
     <>
-      <Link href="https://example.com" rel="nofollow">
+      <Link href="https://genie-beryl.vercel.app/dashboard" rel="nofollow">
         {/* Updated logo to Genie logo */}
         <Image
           src="/genie-logo.png"
