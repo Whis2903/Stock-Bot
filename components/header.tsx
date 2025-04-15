@@ -53,7 +53,7 @@ export function Header() {
     <header className="sticky top-0 z-50 flex items-center justify-between w-full h-16 px-4 border-b shrink-0 bg-gradient-to-b from-background/10 via-background/50 to-background/80 backdrop-blur-xl">
       {/* Left Section: Genie Text */}
       <div className="flex items-center">
-        <Link href="https://genie-beryl.vercel.app" rel="noopener noreferrer">
+        <Link href="https://genie-beryl.vercel.app/dashboard" rel="noopener noreferrer">
           <span className="text-2xl font-bold text-purple-500">Genie</span>
         </Link>
       </div>
